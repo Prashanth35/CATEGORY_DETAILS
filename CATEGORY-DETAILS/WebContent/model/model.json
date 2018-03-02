@@ -1,0 +1,17 @@
+{
+	"category": [{
+
+		"vegetables": {
+			"item1": "tomato",
+			"item2": "mirchi"
+		  
+		},
+		"non-vegetables": {
+			"item1": "chicken",
+			"item2": "mutton"
+
+		}
+
+	}]
+
+}
